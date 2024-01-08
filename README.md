@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Machine Learning, Game Development**
 
-- 📫 How to reach me **pirsonbethancourt039@gmail.com**
+- 📫 How to reach me: **pirsonbethancourt039@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
