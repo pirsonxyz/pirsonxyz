@@ -8,7 +8,7 @@
 
 - 🐊 I’m currently learning **Zig**
 
-- 💬 Ask me about **Machine Learning, Game Development**
+- 💬 Ask me about **Machine Learning, Cybersecurity**
 
 - 📫 How to reach me: **pirsonbethancourt039@gmail.com**
 
