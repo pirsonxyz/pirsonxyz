@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pirsonxyz" alt="pirsonxyz" /></a> </p>
 
-- 🌱 I’m currently learning **Zig**
+- 🐊 I’m currently learning **Zig**
 
 - 💬 Ask me about **Machine Learning, Game Development**
 
